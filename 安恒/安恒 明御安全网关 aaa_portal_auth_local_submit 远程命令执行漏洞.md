@@ -16,7 +16,7 @@ body="/webui/images/basic/login/" && title=="明御安全网关"
 
 登录页面
 
-[![img](https://github.com/PeiQi0/PeiQi-WIKI-Book/raw/main/docs/.vuepress/public/img/1648357678171-6c786cb6-1bdb-43c0-a94b-4c2ed4ff3cd0.png)](https://github.com/PeiQi0/PeiQi-WIKI-Book/blob/main/docs/.vuepress/public/img/1648357678171-6c786cb6-1bdb-43c0-a94b-4c2ed4ff3cd0.png)
+![image-20230817181110361](https://img2023.cnblogs.com/blog/2411575/202308/2411575-20230817181111122-574851174.png)
 
 验证POC
 
@@ -32,12 +32,10 @@ Accept-Encoding: gzip
 
 
 
-[![img](https://github.com/PeiQi0/PeiQi-WIKI-Book/raw/main/docs/.vuepress/public/img/1692062626150-36022103-f317-4818-bac9-f11851fbd281.png)](https://github.com/PeiQi0/PeiQi-WIKI-Book/blob/main/docs/.vuepress/public/img/1692062626150-36022103-f317-4818-bac9-f11851fbd281.png)
+![image-20230817181134637](https://img2023.cnblogs.com/blog/2411575/202308/2411575-20230817181136974-1376059807.png)
 
 ```
 /test.txt
 ```
 
-
-
-[![img](https://github.com/PeiQi0/PeiQi-WIKI-Book/raw/main/docs/.vuepress/public/img/1692062651462-caaf6133-21b4-4566-947b-a9fe6e2f2502.png)](https://github.com/PeiQi0/PeiQi-WIKI-Book/blob/main/docs/.vuepress/public/img/1692062651462-caaf6133-21b4-4566-947b-a9fe6e2f2502.png)
+![image-20230817181152488](https://img2023.cnblogs.com/blog/2411575/202308/2411575-20230817181153300-1229403193.png)
